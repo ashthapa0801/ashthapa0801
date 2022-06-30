@@ -3,8 +3,7 @@
 - 🌱 I’m currently learning MSc Applied Machine Learning at Imperial College London. Alongside my studies, I am also working on 2 personal project of mine:
 -         1. Shor's quantum factoring algorithm for conventional computers using MATLAB (continued undergrad project)
 -         2. Algorithmic trading bot using c++ (I am a newbie in this area)
-- 💞️ I’m looking to collaborate on building a algorithmic trading bot and potentially applying 
--     machine learning as the project progresses
+- 💞️ I’m looking to collaborate on building a algorithmic trading bot and potentially applying machine learning as the project progresses
 - 📫 How to reach me: 
 -         1. email: pthapa0801@gmail.com
           2. Academic email: 
